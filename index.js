@@ -15,5 +15,5 @@ module.exports = {
 
   extends: ['eslint-config-airbnb-base', 'plugin:react/recommended'],
 
-  rules: require('./rules')
+  rules: require('./myRules')
 };
