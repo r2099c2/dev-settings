@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-g4rick",
+  "version": "1.0.0",
+  "description": "eslint base on airbnb",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g4rick/eslint-config-g4rick.git"
+  },
+  "keywords": [
+    "\"style",
+    "guide\""
+  ],
+  "author": "g4rick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/g4rick/eslint-config-g4rick/issues"
+  },
+  "homepage": "https://github.com/g4rick/eslint-config-g4rick#readme"
+}
