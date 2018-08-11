@@ -9,8 +9,8 @@
     "url": "git+https://github.com/g4rick/eslint-config-g4rick.git"
   },
   "keywords": [
-    "\"style",
-    "guide\""
+    "style guide",
+    "eslint"
   ],
   "author": "g4rick",
   "license": "MIT",
