@@ -3,6 +3,7 @@ module.exports = {
     "browser": true,
     "node": true
   }
+
   extends: ['eslint-config-airbnb-base'],
   rules: require('./myRules')
 };
