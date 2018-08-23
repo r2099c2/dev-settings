@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-g4rick",
-  "version": "1.0.0",
+  "version": "1.0.1-beta.1",
   "description": "eslint base on airbnb",
   "scripts": {},
   "repository": {
@@ -17,7 +17,10 @@
     "url": "https://github.com/g4rick/eslint-config-g4rick/issues"
   },
   "homepage": "https://github.com/g4rick/eslint-config-g4rick#readme",
-  "devDependencies": {
-    "eslint-config-airbnb-base": "^13.1.0"
+  "peerDependencies": {
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1"
   }
 }
