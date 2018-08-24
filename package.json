@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-g4rick",
-  "version": "1.0.1-beta.1",
+  "version": "1.0.1",
   "description": "eslint base on airbnb",
   "scripts": {},
   "repository": {
