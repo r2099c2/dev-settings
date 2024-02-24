@@ -1,0 +1,8 @@
+{
+  "className": {
+    "scope": "javascriptreact,typescriptreact",
+    "prefix": "className={}",
+    "body": ["className={$0}"],
+    "description": "className={$0}"
+  }
+}
