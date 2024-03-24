@@ -1,0 +1,13 @@
+theme = "gruvbox_material_dark_hard"
+
+[keys.normal]
+C-s = ":w" # Ctrl-s to :w (save file)
+C-q = ":q" # Ctrl-q to :q (close window)
+
+[keys.insert]
+j = { k = "normal_mode" } # Map jk to normal mode
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
